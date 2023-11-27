@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About Us","permalink":"/blog/welcome","unlisted":false}]}')}}]);

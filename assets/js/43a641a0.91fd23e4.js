@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[3756],{7485:s=>{s.exports=JSON.parse('{"label":"uikit","permalink":"/blog/tags/uikit","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

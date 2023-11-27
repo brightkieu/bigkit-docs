@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[7487],{2899:s=>{s.exports=JSON.parse('{"label":"mobile","permalink":"/blog/tags/mobile","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

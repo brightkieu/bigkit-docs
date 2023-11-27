@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[886],{1278:s=>{s.exports=JSON.parse('{"label":"fullstack","permalink":"/blog/tags/fullstack","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

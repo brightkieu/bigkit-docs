@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[7555],{6547:e=>{e.exports=JSON.parse('{"title":"Components","slug":"/category/components","permalink":"/docs/category/components","navigation":{"previous":{"title":"Theme","permalink":"/docs/theme"},"next":{"title":"Basic components","permalink":"/docs/category/basic-components"}}}')}}]);

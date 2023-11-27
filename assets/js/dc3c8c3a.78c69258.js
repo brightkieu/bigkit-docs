@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbigkit_docs=self.webpackChunkbigkit_docs||[]).push([[3825],{4274:s=>{s.exports=JSON.parse('{"label":"android","permalink":"/blog/tags/android","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
